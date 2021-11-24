@@ -1,0 +1,16 @@
+D:\workspace\CSharp_Basic_Practice\triangle_class\bin\Debug\net5.0\triangle_class.exe
+D:\workspace\CSharp_Basic_Practice\triangle_class\bin\Debug\net5.0\triangle_class.deps.json
+D:\workspace\CSharp_Basic_Practice\triangle_class\bin\Debug\net5.0\triangle_class.runtimeconfig.json
+D:\workspace\CSharp_Basic_Practice\triangle_class\bin\Debug\net5.0\triangle_class.runtimeconfig.dev.json
+D:\workspace\CSharp_Basic_Practice\triangle_class\bin\Debug\net5.0\triangle_class.dll
+D:\workspace\CSharp_Basic_Practice\triangle_class\bin\Debug\net5.0\ref\triangle_class.dll
+D:\workspace\CSharp_Basic_Practice\triangle_class\bin\Debug\net5.0\triangle_class.pdb
+D:\workspace\CSharp_Basic_Practice\triangle_class\obj\Debug\net5.0\triangle_class.csproj.AssemblyReference.cache
+D:\workspace\CSharp_Basic_Practice\triangle_class\obj\Debug\net5.0\triangle_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\CSharp_Basic_Practice\triangle_class\obj\Debug\net5.0\triangle_class.AssemblyInfoInputs.cache
+D:\workspace\CSharp_Basic_Practice\triangle_class\obj\Debug\net5.0\triangle_class.AssemblyInfo.cs
+D:\workspace\CSharp_Basic_Practice\triangle_class\obj\Debug\net5.0\triangle_class.csproj.CoreCompileInputs.cache
+D:\workspace\CSharp_Basic_Practice\triangle_class\obj\Debug\net5.0\triangle_class.dll
+D:\workspace\CSharp_Basic_Practice\triangle_class\obj\Debug\net5.0\ref\triangle_class.dll
+D:\workspace\CSharp_Basic_Practice\triangle_class\obj\Debug\net5.0\triangle_class.pdb
+D:\workspace\CSharp_Basic_Practice\triangle_class\obj\Debug\net5.0\triangle_class.genruntimeconfig.cache

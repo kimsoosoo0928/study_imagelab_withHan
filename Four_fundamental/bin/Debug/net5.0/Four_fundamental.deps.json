@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Four_fundamental/1.0.0": {
+        "runtime": {
+          "Four_fundamental.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Four_fundamental/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

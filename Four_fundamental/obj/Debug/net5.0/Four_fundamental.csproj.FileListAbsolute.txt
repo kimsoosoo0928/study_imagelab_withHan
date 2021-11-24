@@ -1,0 +1,16 @@
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\bin\Debug\net5.0\Four_fundamental.exe
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\bin\Debug\net5.0\Four_fundamental.deps.json
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\bin\Debug\net5.0\Four_fundamental.runtimeconfig.json
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\bin\Debug\net5.0\Four_fundamental.runtimeconfig.dev.json
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\bin\Debug\net5.0\Four_fundamental.dll
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\bin\Debug\net5.0\ref\Four_fundamental.dll
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\bin\Debug\net5.0\Four_fundamental.pdb
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\obj\Debug\net5.0\Four_fundamental.csproj.AssemblyReference.cache
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\obj\Debug\net5.0\Four_fundamental.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\obj\Debug\net5.0\Four_fundamental.AssemblyInfoInputs.cache
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\obj\Debug\net5.0\Four_fundamental.AssemblyInfo.cs
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\obj\Debug\net5.0\Four_fundamental.csproj.CoreCompileInputs.cache
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\obj\Debug\net5.0\Four_fundamental.dll
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\obj\Debug\net5.0\ref\Four_fundamental.dll
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\obj\Debug\net5.0\Four_fundamental.pdb
+D:\workspace\CSharp_Basic_Practice\Four_fundamental\obj\Debug\net5.0\Four_fundamental.genruntimeconfig.cache
